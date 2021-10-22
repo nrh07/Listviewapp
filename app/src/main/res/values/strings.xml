@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contoh Listview</string>
+    <string-array name="sekolah">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+    </string-array>
+</resources>
